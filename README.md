@@ -110,7 +110,8 @@ else:
 ```
 
 <h2> Input and Output:</h2>
-<img width="247" height="52" alt="image" src="https://github.com/user-attachments/assets/e218d2e4-a4d5-47bf-bdcc-d9eae55f4eda" />
+<img width="621" height="312" alt="image" src="https://github.com/user-attachments/assets/25f6a959-a0cb-4221-9825-55b24ba26050" />
+
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
